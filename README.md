@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! Good to see you.
 
 <!--
 **cmj-data-expert/cmj-data-expert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
