@@ -1,5 +1,8 @@
 ## Hello! Good to see you.
 
+Welcome to my page!
+I'm Jay, Database administrator from Seoul, South Korea.
+
 <!--
 **cmj-data-expert/cmj-data-expert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
