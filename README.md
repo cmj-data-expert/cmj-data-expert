@@ -5,7 +5,7 @@ I'm Jay, Database administrator from Seoul, South Korea.<br>
 <br><br>
 #### The technologies I work with
 <br><br>
-#### My latest posts
+#### My featured posts
 
 <!--
 **cmj-data-expert/cmj-data-expert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
