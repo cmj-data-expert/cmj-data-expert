@@ -2,8 +2,9 @@
 
 Welcome to my page!<br>
 I'm Jay, Database administrator from Seoul, South Korea.<br>
-<br>
-<br>
+<br><br>
+#### The technologies I work with
+<br><br>
 #### My latest posts
 
 <!--
