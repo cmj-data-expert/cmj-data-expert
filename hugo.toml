@@ -47,7 +47,7 @@ tocopen = false
   disableFingerprinting=true
 
   [params.label]
-  text = "Home"
+  text = "Main"
   icon = "/apple-touch-icon.png"
   iconHeight = 35
 
