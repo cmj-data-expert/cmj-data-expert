@@ -25,4 +25,3 @@ git push origin main
 
 echo.
 echo 완료되었습니다.
-pause
